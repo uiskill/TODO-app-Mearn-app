@@ -1,4 +1,4 @@
-#TODO App (Complete Mearn Crud app)
+# TODO App (Complete Mearn Crud app)
 1) User Can add , edit, delete & update todo List
 2) Current Date & Time  functionality Added in project
 3) React Helmet Use For Seo
@@ -7,7 +7,7 @@
 1)Mongodb
 2)REact Js
 3)Express & Node Js
-4) React Bootstrap & React Iocon Library
+4)React Bootstrap & React Iocon Library
 5)Axios & React Router Dom
 
 # Getting Started with Create React App
