@@ -4,11 +4,11 @@
 3) React Helmet Use For Seo
 
 # Technology Used
-1)Mongodb
-2)REact Js
-3)Express & Node Js
-4)React Bootstrap & React Iocon Library
-5)Axios & React Router Dom
+1) Mongodb
+2) React Js
+3) Express & Node Js
+4) React Bootstrap & React Iocon Library
+5) Axios & React Router Dom
 
 # Getting Started with Create React App
 
