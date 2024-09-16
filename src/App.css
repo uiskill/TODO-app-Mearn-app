@@ -1,0 +1,51 @@
+
+/* App.css */
+body {
+  font-family: "Alfa Slab One", serif!important;
+  font-weight: 400;
+  font-style: normal;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+h1 {
+  color: #333;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+li {
+  background-color: #fff;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+input[type="text"] {
+  padding: 6px;
+  font-size: 17px;
+  margin-right: 10px;
+  border-radius: 5px;
+  border: #0d6efd solid 1px;
+  margin-top: 3px;
+}
+button {
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  color: #fff;
+  border: none;
+
+}
+button:hover {
+
+}
